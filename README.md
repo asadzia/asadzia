@@ -1,9 +1,1 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asadzia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asadzia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadzia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=asadzia&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Asad's GitHub stats](https://github-stats-extended.vercel.app/api?username=asadzia)](https://github.com/stats-organization/github-stats-extended)
